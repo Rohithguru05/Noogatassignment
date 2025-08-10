@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# Cache directory
+.cache/
+
+# --- CRITICAL: IGNORE THE CONFIG FILE WITH THE SECRET API KEY ---
+config.ini
