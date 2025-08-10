@@ -1,0 +1,44 @@
+{
+    "issues": [
+        {
+            "type": "Numerical Inconsistency",
+            "conflict": "Slide 1 states $2M impact, while Slide 2 states $3M saved in lost productivity hours annually.",
+            "evidence": [
+                "Slide 1: '$2M Impact'",
+                "Slide 2: '$3M saved in lost productivity hours annually'"
+            ]
+        },
+        {
+            "type": "Numerical Inconsistency",
+            "conflict": "Slide 1 and Slide 2 report conflicting time savings per slide.",
+            "evidence": [
+                "Slide 1: '15 mins Saved per slide created'",
+                "Slide 2: '20 mins saved per slide created'"
+            ]
+        },
+        {
+            "type": "Numerical Inconsistency",
+            "conflict": "Slide 3 states a total of 50 hours saved per consultant monthly, but the individual time savings add up to only 40 hours.",
+            "evidence": [
+                "Slide 3: 'Noogat: 50 Hours Saved Per Consultant Monthly'",
+                "Slide 3: '10 hours + 12 hours + 8 hours + 6 hours + 4 hours = 40 hours'"
+            ]
+        },
+        {
+            "type": "Logical Inconsistency",
+            "conflict": "Slide 6 compares Copilot and Gamma, focusing on Gamma's superior capabilities, yet the title implies limitations of Copilot compared to Gamma's superior capabilities. This is a misleading title.",
+            "evidence": [
+                "Slide 6 Title: 'Key Limitations of Copilot Compared to Gamma's Superior Slide Capabilities'",
+                "Slide 6 Content: Primarily focuses on Gamma's advantages rather than Copilot's limitations."
+            ]
+        },
+        {
+            "type": "Missing Data",
+            "conflict": "Several slides lack a source for their data, hindering verification and credibility. ",
+            "evidence": [
+                "Slide 1: 'Source:_______'",
+                "Slide 5: 'Source:_______'"
+            ]
+        }
+    ]
+}

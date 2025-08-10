@@ -1,0 +1,7 @@
+python-pptx
+Pillow
+pytesseract
+google-generativeai
+tqdm
+configparser
+colorama
